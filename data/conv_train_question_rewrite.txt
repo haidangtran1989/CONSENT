@@ -1,0 +1,751 @@
+Q_1440_0: Why Richard B. Spencer received Nazi salutes?
+Q_1440_1: What Jason Kessler sought from court?
+Q_1440_2: What is the former name of Emancipation Park?
+Q_1440_3: What voted concerning Emancipation Park?
+Q_5040_0: Why Rick Gates lawyers wanted to resign?
+Q_5040_1: Rick Gates added what to defense team?
+Q_5040_2: Who does Tom Green represents in the Mueller probe?
+Q_5040_3: Why Amy Berman Jackson dismissed wrongful death suit?
+Q_1968_0: What Robert Mueller did on October 30, 2017?
+Q_1968_1: Why Rick Gates violated the gag order?
+Q_1968_2: Rick Gates added what to defense team?
+Q_1968_3: What decision Amy Berman Jackson made in 2017?
+Q_1968_4: Who Tom Green is representing in the Mueller probe?
+Q_6078_0: Why did Quim Torra initiate a 48-hour fast?
+Q_6078_1: Why Joaquim Forn was remanded in custody?
+Q_6078_2: What Jordi Turull gave testimony in Spanish Audiencia Nacional court?
+Q_6078_3: Where Joaquim Forn went with Catalan ministers?
+Q_6078_4: What measure the Spanish executive took regarding Jordi Turull?
+Q_6078_5: What charges were laid on Joaquim Forn?
+Q_2232_0: Who Eric Schneiderman defeated in the general election?
+Q_2232_1: How did Dan Donovan fare in 2007 election?
+Q_2232_2: Who appointed as chief of staff to Molinary?
+Q_2232_3: When did Guy V. Molinari pass away?
+Q_7609_0: What did the OSC determine about Kellyanne Conway?
+Q_7609_1: Kellyanne Conway violated what about Hatch Act?
+Q_7609_2: Why Doug Jones ran for U.S. Senate special election?
+Q_7609_3: What positions Doug Jones taken on LGBT rights?
+Q_7609_4: Why Doug Jones became a U.S. Senate candidate?
+Q_7609_5: Doug Jones voted for what in 2018?
+Q_5974_0: Who succeeded Nix as CEO of Cambridge Analytica?
+Q_5974_1: What had widely interlinked with Cambridge Analytica company?
+Q_5974_2: What role did Julian Wheatland take over in Cambridge Analytica?
+Q_5974_3: What caused SCL Group company to cease operations?
+Q_5974_4: About SCL Group, what founded in 2017?
+Q_9473_0: What did Ged Kearney seek for preselection in 2017?
+Q_9473_1: Why Ged Kearney was chosen for Batman by-election?
+Q_9473_2: Where Jane Garrett is seeking preselection?
+Q_9473_3: What did David Feeney reveal about Batman by-election?
+Q_9473_4: Regarding David Feeney, what taken to relinquish citizenship?
+Q_8328_0: Why did James Comey resign?
+Q_8328_1: What Sarah Huckabee Sanders said about Rob Porter's background check?
+Q_8328_2: Sarah Huckabee Sanders: Appointed to what role in White House?
+Q_8328_3: Who knew about Rob Porter allegations since January 2017?
+Q_8328_4: What did Michelle Wolf joke about Sarah Huckabee Sanders?
+Q_8328_5: What Comedy game show Michelle Wolf appeared on?
+Q_4201_0: What Ronny Jackson was nominated for by Trump?
+Q_4201_1: Who replaced David Shulkin in March 2018?
+Q_4201_2: Why David Shulkin was fired?
+Q_4201_3: What position Robert Wilkie was nominated to by President Trump?
+Q_4201_4: What position Robert Wilkie held with National Security Council?
+Q_4201_5: What Robert Wilkie did for CH2M Hill?
+Q_2534_0: What Ronal Plasterk accused Frans Timmermans of?
+Q_2534_1: What position Frans Timmermans was assigned?
+Q_2534_2: What Ronald Plasterk announced after Job Cohen's resignation?
+Q_2534_3: Who filled in during medical leave during Stef Blok 's term as interior minister?
+Q_2534_4: When Stef Blok became Minister of Foreign Affairs?
+Q_2534_5: Who selected Job Cohen to be successor?
+Q_1705_0: What US State Department called for concerning Nadiya Savchenko?
+Q_1705_1: Nadiya Savchenko found guilty of what by the court of Donetsk?
+Q_1705_2: What position Jen Psaki held from 2005 to 2006?
+Q_1705_3: What happened to Joseph Crowley in 2018 Democratic primary?
+Q_1705_4: What protest Alexandria Ocasio-Cortez participated in?
+Q_5045_0: Who asked to stay as the acting U.S. Attorney General?
+Q_5045_1: What firm Sally Yates returned as a partner?
+Q_5045_2: Where Sally Yates graduated?
+Q_5045_3: What award Sally Yates received in 2017?
+Q_5045_4: What was Sally Yates nominated for?
+Q_1526_0: Why Carme Forcadell was put in pre-trial prison?
+Q_1526_1: What did Jordi Turull testify before Spanish court?
+Q_1526_2: Where Joaquim Forn arrived with Catalan ministers?
+Q_1526_3: What measures proposed by Spanish government related to Josep Rull?
+Q_1526_4: Why Joaquim Forn was remanded in custody?
+Q_1526_5: What measures the Spanish Senate approved to dismiss Jordi Turull?
+Q_717_0: Who Nikki Haley welcomed as new lieutenant governor?
+Q_717_1: What Nikki Haley violated in June 2017?
+Q_717_2: Why Alan Wilson declined to press charges against Ralph Norman?
+Q_717_3: Why Ralph Norman chose not to run for reelection?
+Q_717_4: What district Ralph Norman represented in South Carolina?
+Q_717_5: Ralph Norman faced felony charges about what?
+Q_6437_0: What position Steve Bullock had worked in 1996?
+Q_6437_1: Who was the running mate of Steve Bullock?
+Q_6437_2: What role John Walsh assumed in Montana?
+Q_6437_3: Who replaced John Walsh as congressional Chief of Staff?
+Q_6437_4: Who campaigned for Greg Gianforte?
+Q_6437_5: What was Greg Gianforte congratulated for?
+Q_3375_0: What investigation did Andrew McCabe authorize?
+Q_3375_1: Why Andrew McCabe acted as deputy director?
+Q_3375_2: What schools Christopher A. Wray attended?
+Q_3375_3: Who Christopher A. Wray clerked for during law school?
+Q_3375_4: What position Sergey Kislyak held from 1993 to 1995?
+Q_3375_5: What Christopher A. Wray appointed to?
+Q_103_0: Who was the grandparent of Mia Mottley?
+Q_103_1: Mia Mottley: What position appointed to in 1994?
+Q_103_2: Why Owen Arthur resigned from Barbados Labour Party?
+Q_103_3: What is the nickname of the Barbados Labour Party org?
+Q_103_4: About Barbados Labour Party: Who led in 1994?
+Q_6726_0: Who warned White House Counsel about Rob Porter's "anger problems"?
+Q_6726_1: When Rob Porter knew about the allegations?
+Q_6726_2: Where Don McGahn attended high school?
+Q_6726_3: Where is Holy Spirit High School org located?
+Q_6726_4: What did Donald McGahn bring during his appointment?
+Q_7603_0: How did Melania Trump support Trump?
+Q_7603_1: Melania Trump: How's the rapport?
+Q_7603_2: What initiative was taken by Karen Pence?
+Q_7603_3: What caused noise disturbance for Number One Observatory Circle area's neighbors?
+Q_7603_4: What was known to occupy Number One Observatory Circle area?
+Q_7603_5: What did Karen Pence installed at Indiana Governor's Residence?
+Q_4992_0: What was Cristina Cifuentes accused of regarding her Master's degree?
+Q_4992_1: What did King Juan Carlos University org awarded to Rodrigo Rato?
+Q_4992_2: What happened to Rodrigo Rato after October 17 hearing?
+Q_4992_3: What was Miguel Blesa sentenced for?
+Q_4992_4: Miguel Blesa: What position held in Caja Madrid?
+Q_4992_5: What King Juan Carlos University org conferred upon James A. Yorke?
+Q_8676_0: What video that caused Pedro Pablo Kuczynski a political fiasco?
+Q_8676_1: What was the reaction of Pedro Pablo Kuczynski to the attack?
+Q_8676_2: How did Keiko Fujimori pay for studies at Boston University?
+Q_8676_3: Who officiated the wedding of Keiko Fujimori?
+Q_8676_4: Regarding Keiko Fujimori: What organizations were part of movement?
+Q_560_0: What Ashley Judd and John Prendergast published about Congo?
+Q_560_1: Ashley Judd played what role in Star Trek?
+Q_560_2: What was Enough Project org's agenda?
+Q_560_3: What Star Trek: The Next Generation film ranked in Vulture?
+Q_8654_0: Why Elliott Broidy resigned as RNC deputy finance chairman?
+Q_8654_1: Elliott Broidy: What position got appointed for in Republican National Committee?
+Q_8654_2: What Michael Cohen documents revealed about hush money payments?
+Q_8654_3: What legal action Shera Bechard took against Broidy?
+Q_8654_4: How much was the lien requested against Michael Avenatti?
+Q_8654_5: Who Forbes listed as partners of Trump Organization org?
+Q_6503_0: What Tommy Robinson displayed on Good Morning Britain?
+Q_6503_1: Tommy Robinson: Prison population percentage?
+Q_6503_2: What James Alefantis requested from Alex Jones?
+Q_6503_3: What percentage Alex Jones dedicated to promoting products?
+Q_6503_4: What was Last Week Tonight film's main segment about?
+Q_6503_5: What defamation suit was filed against Alex Jones?
+Q_1094_0: What company the former Cambridge Analytica staff launched?
+Q_1094_1: Cambridge Analytica: What was accused of in committee hearing?
+Q_1094_2: What Christopher Wylie contributed to Cambridge Analytica?
+Q_1094_3: What action was taken against Carole Cadwalladr by Cambridge Analytica?
+Q_8566_0: Where Alexander Bortnikov visited in January 2018?
+Q_8566_1: What was Alexander Bortnikov criticized for?
+Q_8566_2: What position did Igor Korobov hold?
+Q_8566_3: What position Sergey Naryshkin was appointed to in 2007?
+Q_8425_0: What was declared in Afrin District in 2017?
+Q_8425_1: What purpose Afrin Canton area served during Syrian Civil War?
+Q_8425_2: Who was captured as result of the 2018 Afrin offensive?
+Q_8425_3: How many Kurds joined Syrian National Army org in 2018?
+Q_8425_4: What happened to Afrin Canton area in 2018?
+Q_5509_0: Who was in the detention review panel for Mohamed Morsi?
+Q_5509_1: What Edward Faulks appointed as in 2018?
+Q_5509_2: What Crispin Blunt got elected as in September 2017?
+Q_5509_3: What Paul Williams accepted from Saudi Arabia?
+Q_5509_4: How long Crispin Blunt chaired Foreign Affairs Select Committee?
+Q_5509_5: Who selected Paul Williams in 2017 UK election?
+Q_2321_0: What did Quim Torra do in December 2018?
+Q_2321_1: What are the charges against Joaquim Forn?
+Q_2321_2: What is the role of Spanish Attorney General?
+Q_2321_3: Why Joaquim Forn was remanded in custody?
+Q_2321_4: What did Jordi Turull testify before Spanish Audiencia Nacional court?
+Q_8723_0: What Inspired Speakers' Corner?
+Q_8723_1: Speakers' Corner: Where else are they located?
+Q_8723_2: What occupation Karl Dean is?
+Q_8723_3: Where Karl Dean was raised?
+Q_1903_0: Did Dick Durbin demand resignation of Kirstjen Nielsen?
+Q_1903_1: What Kirstjen Nielsen confirmed at Aspen Security Forum?
+Q_1903_2: Kirstjen Nielsen: What role appointed to?
+Q_1903_3: Kirstjen Nielsen: Spoke what at press briefing?
+Q_1903_4: What position Elaine Duke got nominated by President Donald Trump?
+Q_1650_0: How much% Matteo Renzi won the election?
+Q_1650_1: Matteo Renzi: Accused of what by constitutionalists and politicians?
+Q_1650_2: What position Fausto Bertinotti was elected to after the election?
+Q_1650_3: Who ran in 2005 Italia general election?
+Q_7985_0: What did Andrew McCabe authorize to investigate Jeff Sessions?
+Q_7985_1: When Andrew McCabe was reverted to being deputy director?
+Q_7985_2: What Christopher A. Wray was nominated for?
+Q_7985_3: What schools Christopher A. Wray attended?
+Q_7985_4: Where Christopher A. Wray clerked after graduating law school?
+Q_7985_5: What does John Beyrle describe Sergey Kislyak as?
+Q_9259_0: When did Larry Nassar start molesting McKayla Maroney?
+Q_9259_1: Larry Nassar: What got sentenced for?
+Q_9259_2: What did McKayla Maroney allege in the lawsuit?
+Q_9259_3: McKayla Maroney: What allegation made?
+Q_936_0: What Conor McGregor did to initiate scuffle?
+Q_936_1: Conor McGregor: What lost next fight?
+Q_936_2: Who was Joseph Duffy scheduled to fight?
+Q_936_3: Joseph Duffy: What contract signed with UFC?
+Q_936_4: What bout Ross Pearson fought in?
+Q_936_5: Who was set to fight Ross Pearson in July?
+Q_2006_0: Who Zoran Zaev replaced as SDSM's leader?
+Q_2006_1: Zoran Zaev: What role fulfilled in 2015 June meeting?
+Q_2006_2: What did Johannes Hahn chair in 2005?
+Q_2006_3: Who was vetoed for Commissioner, opening road for Johannes Hahn?
+Q_2006_4: Johannes Hahn: What was nominated for in 2009?
+Q_5052_0: Who replaced Blake Farenthold in the 2018 special election?
+Q_5052_1: Blake Farenthold: How was found dead?
+Q_5052_2: What environmental value is attributed to Corpus Christi Bay area?
+Q_5052_3: What office Michael Cloud holds since 2018?
+Q_8619_0: What Kurt Hugo Schneider and Mario Jose covered?
+Q_8619_1: What Kurt Hugo Schneider and Tsui released since September 2010?
+Q_8619_2: Who casted for the project from Yale music community, including Sam and Allison?
+Q_8619_3: Kurt Hugo Schneider: What school attended?
+Q_8619_4: What award did Allison Williams get nominated for in 2016?
+Q_8619_5: Allison Williams: What Funny or Die sketches written?
+Q_9825_0: Who did FC Cincinnati signed in July 2018?
+Q_9825_1: When did Fanendo Adi scored his first goal for Copenhagen?
+Q_9825_2: Fanendo Adi: How much traded for?
+Q_9825_3: What FC Cincinnati org did on December 11, 2018?
+Q_8623_0: What Commissioner Antonio Tajani said about compliance with deficit criteria?
+Q_8623_1: Antonio Tajani: Graduated in law from where?
+Q_8623_2: What team Olli Rehn has played for?
+Q_8623_3: What division did Olli Rehn 's football club used to play in?
+Q_4027_0: How many combined tackles Mychal Kendricks made?
+Q_4027_1: What award Eric Kendricks won for his week 1 performance?
+Q_4027_2: What Mike Zimmer rumored to have been candidate of?
+Q_4027_3: What Eric Kendricks forced during Packers game?
+Q_4027_4: What score was the first win for Mike Zimmer?
+Q_4027_5: When Eric Kendricks lead Viking defense in tackles?
+Q_1347_0: How many straight games Magnus Carlsen won in classical chess?
+Q_1347_1: Who did Magnus Carlsen defeat to win the Grand Chess Tour?
+Q_1347_2: Who did Ian Nepomniachtchi defeat to win the event?
+Q_1347_3: What Grand Chess Tour provided in 2018?
+Q_5674_0: What James Gunn publicly criticized?
+Q_5674_1: What Mike Cernovich unearthed about James Gunn?
+Q_5674_2: What office Jack Posobiec was given in April 2017?
+Q_5674_3: What Mike Cernovich pursued to influence Trump?
+Q_5674_4: What America First org proposed in the 2018 federal budget?
+Q_5674_5: When Jack Posobiec married?
+Q_1868_0: What did Brett Kavanaugh do to Ford?
+Q_1868_1: What involvement Mark Judge had in 1982 Kavanaugh allegation?
+Q_1868_2: How many boys Christine Blasey Ford mentioned in 2018?
+Q_1868_3: What Christine Blasey Ford accused Brett Kavanaugh?
+Q_1868_4: What actions Christine Blasey Ford had to be taken due to harassment?
+Q_5656_0: What role Cynthia Erivo took in The Last Five Years?
+Q_5656_1: What Joshua Henry starred in 2018?
+Q_5656_2: What theater Jessie Mueller performed in 2006?
+Q_5656_3: Who was the cast of Jessie Mueller?
+Q_5656_4: Who shared credit with Judith Martin for her columns?
+Q_5656_5: What award given to Judith Martin in 2005?
+Q_1075_0: What did John F. Kelly do with Trump's approval?
+Q_1075_1: What altercation John F. Kelly had?
+Q_1075_2: Why the delayed appointment for Anthony Scaramucci?
+Q_1075_3: How long was the tenure of Anthony Scaramucci?
+Q_1075_4: What role Anthony Scaramucci was slated to take up at White House?
+Q_1075_5: What Corey Lewandowski asked Trump to do?
+Q_5912_0: Why Lee Smith was traded by Cardinals?
+Q_5912_1: How Lee Smith got baseball managing job?
+Q_5912_2: Why Dick Tidrow got into starting rotation?
+Q_5912_3: Dick Tidrow: What record was in that season?
+Q_5912_4: What was the career record of Don Gullett?
+Q_1109_0: Why Jim Acosta asked Sarah Huckabee Sanders?
+Q_1109_1: What Sarah Huckabee Sanders said about Rob Porter's background check?
+Q_1109_2: Why Rob Porter resigned from White House Staff Secretary?
+Q_1109_3: Rob Porter: What dispute was resolved by background check?
+Q_1109_4: What jokes were told on Sarah Huckabee Sanders?
+Q_1109_5: What did Michelle Wolf thank @GOP for?
+Q_4098_0: Who Ali Akbar Velayati was at time of warrant arrest?
+Q_4098_1: Ali Akbar Velayati: What position appointed to?
+Q_4098_2: What was the birthname of Ali Akbar Hashemi Rafsanjani?
+Q_4098_3: Ali Akbar Hashemi Rafsanjani: What caused the death?
+Q_5985_0: What credible information Michael Avenatti revealed about Brett Kavanaugh?
+Q_5985_1: What large cases Michael Avenatti served as lead counsel on?
+Q_5985_2: Why Michael Avenatti filed suit?
+Q_5985_3: Why Michael Cohen resorted to guilty plea?
+Q_5985_4: Michael Cohen: Who were involved in the hush money payments?
+Q_7867_0: What links to extremism Jamal Khashoggi had?
+Q_7867_1: Jamal Khashoggi: What was involvement in Saudi intelligence?
+Q_7867_2: What Anthony Cordesman outlines about the IDF?
+Q_7867_3: What David Ignatius concluded about the Israel-Palestinian conflict?
+Q_7867_4: Where Anthony Cordesman worked in government?
+Q_3927_0: How Jamal Khashoggi traveled with mujahideen?
+Q_3927_1: What Jamal Khashoggi said he would do with?
+Q_3927_2: What did David Ignatius wrote about in Washington Post?
+Q_3927_3: David Ignatius: What magazines has been written for?
+Q_8019_0: What position Gavin Williamson held in October 2011?
+Q_8019_1: Gavin Williamson: What showed lack of faith in complaints process?
+Q_8019_2: Where Hugo Swire received preparatory school education?
+Q_8019_3: Who is the partner of Anneliese Dodds?
+Q_8019_4: Anneliese Dodds: Where lectured?
+Q_674_0: What Jamal Khashoggi was passionate about in early 20s?
+Q_674_1: Jamal Khashoggi: How long held position?
+Q_674_2: What David Ignatius moderated at the 2009 World Economic Forum?
+Q_674_3: David Ignatius: What larger truth elucidated?
+Q_674_4: David Ignatius: What piece wrote for book?
+Q_1863_0: How Geraint Thomas clinches gold in the road race?
+Q_1863_1: How Geraint Thomas won Tour de France?
+Q_1863_2: What position Romain Bardet achieved in penultimate stage?
+Q_1863_3: Romain Bardet: What was best performance at Liège–Bast?
+Q_6811_0: How Magnus Carlsen fared at the Mikhail Tal Memorial?
+Q_6811_1: Magnus Carlsen: Result at the tournament?
+Q_6811_2: How Anish Giri is regarded by his peers?
+Q_6811_3: Where Ian Nepomniachtchi finished second at World Rapid Chess Championship?
+Q_6811_4: Who won the event and eliminate Rauf Mamedov, Parimarjan Negi and Zaven Andriasian?
+Q_622_0: What did Fabiano Caruana achieved in the Sinquefield Cup?
+Q_622_1: Fabiano Caruana: What was the result in Chess.com RCC?
+Q_622_2: How Dmitry Andreikin fared in the Tal Memorial?
+Q_622_3: Dmitry Andreikin: What event won in 2016?
+Q_6454_0: What Quim Torra declared in December 2018?
+Q_6454_1: Where Joaquim Forn went with Catalan ministers?
+Q_6454_2: Joaquim Forn: Why got remanded in custody?
+Q_6454_3: What measure was taken regarding Jordi Turull?
+Q_6454_4: What was Carmen Lamela's sister's role in Spain?
+Q_1817_0: How many games Magnus Carlsen won at joint first?
+Q_1817_1: Magnus Carlsen: How many straight won in classical chess?
+Q_1817_2: Who emerged victorious at event won by Ian Nepomniachtchi?
+Q_1817_3: Ian Nepomniachtchi: What position finished at World Rapid Chess Championship?
+Q_1011_0: Why Peter Strzok fired by FBI?
+Q_1011_1: Peter Strzok: What was revealed in the letter?
+Q_1011_2: How did David Bowdich become acting FBI director?
+Q_1011_3: What was the outcome of the investigation for Andrew McCabe?
+Q_1011_4: Andrew McCabe: What did FBI documents verify?
+Q_1011_5: Andrew McCabe: Why under FBI investigation?
+Q_4842_0: What did Red Sox trade for Steve Pearce?
+Q_4842_1: Steve Pearce: Who preceded for MLB team in American League East?
+Q_4842_2: What did Santiago Espinal get traded for?
+Q_4842_3: What Kelly Johnson was traded for?
+Q_4842_4: Kelly Johnson: What was the batting average?
+Q_4842_5: How many at-bats John McDonald had?
+Q_8261_0: What Jordi Turull and other Catalan Government members testified before?
+Q_8261_1: Jordi Turull: What was done in December?
+Q_8261_2: Where Oriol Junqueras was born?
+Q_8261_3: What Josep Rull was dismissed of?
+Q_8261_4: Josep Rull: What declared before the Audiencia Nacional judge?
+Q_9309_0: Why Abdulla Yameen declared a state of emergency?
+Q_9309_1: Who Abdulla Yameen defeated in 2018 presidential election?
+Q_9309_2: Why Ibrahim Mohamed Solih selected for 2018 election?
+Q_9309_3: What Ibrahim Mohamed Solih got elected as?
+Q_9309_4: When Ibrahim Mohamed Solih took office?
+Q_2785_0: Willingness of Matteo Salvini for political government?
+Q_2785_1: What Giorgia Meloni views her political party?
+Q_2785_2: Giorgia Meloni: Has been labeled a fascist?
+Q_2785_3: Who is acclaimed as first far-right leader since Benito Mussolini?
+Q_2785_4: Giorgia Meloni: What political party joined in 1992?
+Q_2785_5: Giorgia Meloni: Found what committee during Italian constitutional referendum?
+Q_6575_0: What information Michael Avenatti had about Brett Kavanaugh?
+Q_6575_1: What action Michael Avenatti took regarding the non-disclosure agreement?
+Q_6575_2: Michael Avenatti: What large cases served as lead counsel on?
+Q_6575_3: What Michael Cohen reported about the properties?
+Q_3576_0: Why Martha McSally declared candidacy for Arizona's 8th congressional district?
+Q_3576_1: Who was the expected candidate in the Republican primary, against Kelli Ward?
+Q_3576_2: Who Kelli Ward mentioned in her campaign bus tour?
+Q_3576_3: Kelli Ward: How much donated to campaign?
+Q_3576_4: What Mike Cernovich was advocating for?
+Q_4597_0: What faction of Liberal Party Peter Dutton leads?
+Q_4597_1: Peter Dutton: What seat ran for in 1989?
+Q_4597_2: What Tom Burns was elected as in 1984?
+Q_4597_3: When did Nev Warburton serve as leader of the opposition?
+Q_7021_0: How Jamal Khashoggi got support to travel with mujahideen?
+Q_7021_1: What David Ignatius covered while with Washington Post?
+Q_7021_2: David Ignatius: What magazines have featured writing?
+Q_7021_3: David Ignatius: What wrote in Washington Post?
+Q_7021_4: David Ignatius: What course lectured?
+Q_9776_0: Who did Matteo Salvini start to collaborate with?
+Q_9776_1: Matteo Salvini: Agreed to begin what?
+Q_9776_2: Who Giorgia Meloni met in Brussels?
+Q_9776_3: What committee did Roberta Metsola partake in?
+Q_9776_4: What Giorgia Meloni got re-elected at FdI in?
+Q_1673_0: What award Stormy Daniels was surprise to win?
+Q_1673_1: Stormy Daniels: What claimed about entrance to the house?
+Q_1673_2: What happened to the films of Jesse Jane?
+Q_1673_3: Who heads up Digital Playground film's production team?
+Q_1673_4: What has Jesse Jane been the sex columnist for?
+Q_1673_5: What allegation Michael Avenatti was confronted with in 2017?
+Q_658_0: Why the killing of Jamal Khashoggi is so noted?
+Q_658_1: Jamal Khashoggi: What threatened on?
+Q_658_2: Who is the ancestor of Patrick Cockburn?
+Q_658_3: Patrick Cockburn: What was criticised for?
+Q_658_4: Patrick Cockburn: What made a subject to publisher's criticism?
+Q_6887_0: What more interaction Rex Tillerson had?
+Q_6887_1: Rex Tillerson: Who nominated to replace?
+Q_6887_2: What Gina Haspel appointed to by President Trump?
+Q_6887_3: Gina Haspel: What officially sworn in as?
+Q_6887_4: Gina Haspel: What became first to do after Senate confirmation?
+Q_6887_5: Gina Haspel: Appointed for what post in 2013?
+Q_1979_0: What did Carles Puigdemont do on 30 October 2017?
+Q_1979_1: Why Joaquim Forn got remanded in custody?
+Q_1979_2: What Jordi Turull did to raise awareness?
+Q_1979_3: Jordi Turull: Testified what in Spanish Audiencia Nacional court?
+Q_1979_4: Who Carmen Lamela's sister is?
+Q_6387_0: What John R. Bolton was contemplating?
+Q_6387_1: What rank Trump administration elevated the Homeland Security Advisor to?
+Q_6387_2: Homeland Security Advisor: What confirmation requires?
+Q_6387_3: How Tom Bossert was tricked?
+Q_6387_4: What ploy did James Linton use on Barclays chairman?
+Q_6387_5: Why Tom Bossert resigned?
+Q_4369_0: What Sigmar Gabriel did as German government visitor to Iran?
+Q_4369_1: What did Nazanin Boniadi testify for in 2010?
+Q_4369_2: Nazanin Boniadi: Join forces with who?
+Q_4369_3: Nazanin Boniadi: What project did spearhead?
+Q_4369_4: When was Bahman Ghobadi born?
+Q_9522_0: What investigation did Andrew McCabe authorize?
+Q_9522_1: Andrew McCabe: What role after confirmation?
+Q_9522_2: What happened in meeting between Donald Trump and Sergey Kislyak?
+Q_9522_3: What did Sergei Lavrov reproof in 2017?
+Q_9522_4: Who succeeded Sergey Kislyak?
+Q_9522_5: What position was Anatoly Antonov appointed to?
+Q_3805_0: What name King Power Stadium got in 2011-12?
+Q_3805_1: What King Power company purchased in June 2016?
+Q_3805_2: What concession King Power got from Thai AirAsia X?
+Q_3805_3: What Thai AirAsia company sponsors?
+Q_5059_0: Where Jeff Flake was when congressional baseball shooting took place?
+Q_5059_1: Jeff Flake: What voted against Thomas Farr's nomination?
+Q_5059_2: What Thomas Farr was opposed for?
+Q_5059_3: Thomas Farr: What was the position nomination?
+Q_5919_0: Why Carles Puigdemont sought refuge in Belgium?
+Q_5919_1: Carles Puigdemont: What charges laid?
+Q_5919_2: Why Joaquim Forn got remanded into custody?
+Q_5919_3: Who was proposed for the presidency by Jordi Turull?
+Q_5919_4: Jordi Turull: What was the result of the investiture?
+Q_5919_5: Jordi Turull: Testified what before Spanish court?
+Q_9951_0: Why Michael McCormack again contested for National Party deputy leadership?
+Q_9951_1: Which ministers Fiona Nash worked with?
+Q_9951_2: Who Mark Vaile backed in the ensuing by-election?
+Q_9951_3: Mark Vaile: What was job before entering politics?
+Q_9173_0: When Conor McGregor had his comeback fight?
+Q_9173_1: Conor McGregor: How lost second professional fight?
+Q_9173_2: Who did Joseph Duffy face in December 2018?
+Q_9173_3: Who Ross Pearson was scheduled to face in July?
+Q_9173_4: Who James Krause faced at UFC Fight Night?
+Q_9173_5: Against who Ross Pearson scheduled to fight?
+Q_4885_0: What Olaf Scholz was speculated as successor to Schäuble?
+Q_4885_1: Olaf Scholz: What timeline agreed on for coal phaseout?
+Q_4885_2: What Thomas Oppermann was elected to do in December 2013?
+Q_4885_3: Thomas Oppermann: What tasked with for 2017 federal election?
+Q_4885_4: What Manuela Schwesig led in 2017 coalition negotiations?
+Q_4885_5: What role Hubertus Heil is serving since 2018?
+Q_5846_0: Who invited Pedro Pablo Kuczynski to Peru?
+Q_5846_1: What percentage of vote Pedro Pablo Kuczynski obtained in Peru's general elections?
+Q_5846_2: What position did Keiko Fujimori got in presidential election?
+Q_5846_3: Keiko Fujimori: What predicted from presidency?
+Q_2970_0: What Owen Smith was sacked from?
+Q_2970_1: Owen Smith: What expressed support for in the by-election campaign?
+Q_2970_2: How is Tony Lloyd described?
+Q_2970_3: Which universities Andrew Roth attended?
+Q_2970_4: Andrew Roth: Joined what office during WWII?
+Q_2970_5: What kind of regionalist Tony Lloyd was?
+Q_2347_0: Where did Carles Puigdemont and Catalan ministers go in 2017?
+Q_2347_1: Where Joaquim Forn and other Catalan ministers went?
+Q_2347_2: Joaquim Forn: What charges were laid?
+Q_2347_3: Joaquim Forn: Why got remanded in custody?
+Q_2347_4: Who Carmen Lamela’s sister María Luisa Lamela served as?
+Q_5264_0: What was the joint award given to Denis Mukwege?
+Q_5264_1: Where Denis Mukwege worked after France studies?
+Q_5264_2: What Nadia Murad announced at event?
+Q_5264_3: Nadia Murad: What did Nobel Peace Prize get awarded for?
+Q_5264_4: Nadia's Initiative: What Nadia Murad donated prize winnings to support?
+Q_5264_5: What attorney Amal Clooney was doing for Nadia Murad?
+Q_7543_0: What Phillippe Raffi Kalfayan accused Nikol Pashinyan?
+Q_7543_1: What stated in relation to Nikol Pashinyan?
+Q_7543_2: What led to the withdrawal of Axel Fischer's Bundestag appointment?
+Q_7543_3: Axel Fischer: Why removed from list of PACE delegation nominees?
+Q_4662_0: What did Tim Draper predict about buying coffee?
+Q_4662_1: Tim Draper: What educational program founded?
+Q_4662_2: Who founded Intelligence Squared org?
+Q_4662_3: What partnership Draper University org made in Fall 2017?
+Q_4662_4: What program did Intelligence Squared org produced?
+Q_4662_5: What topic Project Debater org debating in 2018?
+Q_9268_0: What charges laid against Carles Puigdemont?
+Q_9268_1: Carles Puigdemont: What charges were brought?
+Q_9268_2: What is the role of the Spanish Attorney General?
+Q_9268_3: Spanish Attorney General: Who appoints and dismisses?
+Q_9268_4: What was the Puigdemont Government org led by?
+Q_9584_0: What organization did Brad Parscale launch with Nick Ayers?
+Q_9584_1: What was Nick Ayers investing in?
+Q_9584_2: What happened with Haley Byrd for Independent Journal Review company?
+Q_9584_3: Why Juan Pablo Andrade was fired from America First Policies?
+Q_9584_4: America First Policies: Used what derogatory language?
+Q_3841_0: Where Peter Dutton was elected in the 2001 election?
+Q_3841_1: Peter Dutton: Suggested what in name of free speech?
+Q_3841_2: What Cheryl Kernot worked as at Oxford University?
+Q_3841_3: What Johnathan Thurston did with his NRL Grand Final ring?
+Q_3841_4: NRL Grand Final: What was the rugby league world record crowd?
+Q_9874_0: What Erin Hamlin became the first to medal in?
+Q_9874_1: Erin Hamlin: What was last Winter Olympics?
+Q_9874_2: What affected the lead-up to the 2018 Winter Olympics?
+Q_9874_3: What happened at 2018 Winter Olympics?
+Q_1286_0: What did Jim Acosta file a civil suit against?
+Q_1286_1: What did Jim Acosta ask from Sarah Huckabee Sanders?
+Q_1286_2: What protests Bill Shine's appointment was met with?
+Q_1286_3: What was Kaitlan Collins hired as by CNN?
+Q_1286_4: What did Larry Klayman unsuccessfully sue?
+Q_1286_5: Larry Klayman: What did the district court dismissed lawsuit?
+Q_2642_0: What expectation Peter Dutton had for his preselection?
+Q_2642_1: Peter Dutton: Why claimed that people were scared of going out?
+Q_2642_2: What African Australians connection to Aboriginal Australians pointed out?
+Q_2642_3: African Australians: How migrated to Australia?
+Q_5916_0: How Kris Kobach beat Governor Jeff Colyer?
+Q_5916_1: Kris Kobach: How ran in Kansas General election?
+Q_5916_2: What percentage of votes Greg Orman had in August 2018?
+Q_5916_3: Who is running with Greg Orman in the Kansas governor race?
+Q_5916_4: What economic state Jeff Colyer left Kansas in?
+Q_5916_5: Jeff Colyer: Appointed to what position after resignation?
+Q_2868_0: What Henry Bolton challenged in August 2017?
+Q_2868_1: Why Anne Marie Waters removed as UKIP candidate?
+Q_2868_2: What Paul Nuttall returned to in 2014?
+Q_2868_3: Paul Nuttall: Selected for what in 2009 European Parliament election?
+Q_2868_4: Paul Nuttall: Where appeared to speak on behalf of UKIP?
+Q_2868_5: Paul Nuttall: What was the best result in parliamentary elections?
+Q_2857_0: How many tackles Mychal Kendricks made on January 21, 2018?
+Q_2857_1: What did Eric Kendricks do against the Eagles?
+Q_2857_2: What was the milestone achieved by Anthony Barr in 2013?
+Q_2857_3: What was Zach Ertz named in 2017?
+Q_2857_4: Why Saints released Kai Forbath?
+Q_2857_5: How many tackles Eric Kendricks had in the 2015 season?
+Q_6034_0: What did Matteo Orfini suggest to Matteo Salvini?
+Q_6034_1: Who proposed Matteo Salvini for Minister of Economy and Finances?
+Q_6034_2: What post did Paolo Savona occupy to end the crisis?
+Q_6034_3: What office was assigned to Giovanni Tria?
+Q_1313_0: What was Fabiano Caruana's result at Shamkir Chess 2014?
+Q_1313_1: Fabiano Caruana: What was the result?
+Q_1313_2: What was the first event that held by Vugar Gashimov?
+Q_1313_3: What Wang Hao was nominated for?
+Q_1844_0: What did Dick Durbin vote for in December 2018?
+Q_1844_1: Dick Durbin: What was suggested in 2007?
+Q_1844_2: What Representative introduced the First Step Act?
+Q_1844_3: What did Doug Collins do prior to selling hazardous material?
+Q_1844_4: Doug Collins: What district represented in the Georgia House of Representatives?
+Q_2921_0: When did Larry Nassar start molesting McKayla Maroney?
+Q_2921_1: Why McKayla Maroney filed a suit?
+Q_2921_2: McKayla Maroney: What was alleged against Larry Nassar?
+Q_2921_3: McKayla Maroney: What was awarded?
+Q_2921_4: Who won Arthur Ashe Courage Award?
+Q_2921_5: Arthur Ashe Courage Award: What was awarded for?
+Q_2183_0: When Afrin Canton was declared?
+Q_2183_1: Afrin District: Where Kurdish Alevis settled due to Dersim Massacre?
+Q_2183_2: Afrin District: Who declared ‘Afrin Region’?
+Q_2183_3: What was the previous name of Afrin Region area?
+Q_9726_0: How long Jamal Khashoggi served as editor-in-chief of Al?
+Q_9726_1: Jamal Khashoggi: What is best publicised for?
+Q_9726_2: What did the publisher criticize Patrick Cockburn for?
+Q_9726_3: Patrick Cockburn: Who descendant of?
+Q_9726_4: Patrick Cockburn: What was stated in regard of the massacre?
+Q_2109_0: Who was U.S. Attorney General before Jeff Sessions?
+Q_2109_1: Sally Yates: What award J. Comer Yates was given in 2017?
+Q_2109_2: Sally Yates: Where graduated?
+Q_2109_3: Who hired Sally Yates as Assistant U.S. Attorney?
+Q_2109_4: Sally Yates: What labeled as "insubordination"?
+Q_2109_5: What Josh Blackman got disrupted by?
+Q_8614_0: What Baker Mayfield threw and three costly interceptions?
+Q_8614_1: Baker Mayfield: What award was listed as a semifinalist for?
+Q_8614_2: C. J. Mosley: Who topped tackles for the team in 2012?
+Q_8614_3: C. J. Mosley: Where placed in 2012 Butkus Award?
+Q_3211_0: Who Lucas Matthysse faced in October 2015?
+Q_3211_1: Lucas Matthysse: Where fought in 2003?
+Q_3211_2: What semi-final eliminator Viktor Postol involved?
+Q_3211_3: How Mohamed Mimoune defended his European Union title?
+Q_3211_4: Mohamed Mimoune: When won the IBO super-lightweight title?
+Q_3211_5: What title did Jussi Koivula challenge in 2016 and 2017?
+Q_5065_0: Who controlled Afrin District since 2012?
+Q_5065_1: What fled to Afrin District area?
+Q_5065_2: What was the former name of Afrin Region area?
+Q_5065_3: Who captured Afrin Canton area in 2018?
+Q_5065_4: How many Kurds have joined the Syrian National Army org?
+Q_5065_5: When Afrin Canton area declared?
+Q_3874_0: Who Paul Manafort was meeting with in 2016?
+Q_3874_1: Paul Manafort: What was offered?
+Q_3874_2: With whom Natalia Veselnitskaya was in contact?
+Q_3874_3: What did Yury Chaika announce in 2007?
+Q_3874_4: What role has Natalia Veselnitskaya assumed since 2013?
+Q_3874_5: Why Konstantin Kilimnik was mentioned in Mueller's documents?
+Q_2798_0: What deal FC Cincinnati made?
+Q_2798_1: FC Cincinnati: Who acquired in July 2018?
+Q_2798_2: How did Fanendo Adi score on his F.C. Copenhagen debut?
+Q_2798_3: Fanendo Adi: How much was traded for?
+Q_2798_4: How did FC Cincinnati org fare against New York Red Bulls?
+Q_8263_0: What nomination did Bruno Le Maire proclaimed?
+Q_8263_1: Bruno Le Maire: Why happened in May 2017?
+Q_8263_2: What fate Nathalie Kosciusko-Morizet faced in 2014 May?
+Q_8263_3: Nathalie Kosciusko-Morizet: What position held in UMP?
+Q_6171_0: What university did Frans Timmermans attend?
+Q_6171_1: Frans Timmermans: Accused of doing what?
+Q_6171_2: Who substituted Ronald Plasterk during his leave of absence?
+Q_6171_3: When Stef Blok took office as Minister of Foreign Affairs?
+Q_6171_4: What ideology has Wouter Bos associated with Ronald Plasterk?
+Q_6171_5: What office did Wouter Bos resume in 2002?
+Q_7507_0: Who George Papadopoulos met with on January 20, 2017?
+Q_7507_1: What did Panos Kammenos admitted to do in London?
+Q_7507_2: Panos Kammenos: What uploaded that caused controversy?
+Q_7507_3: Panos Kammenos: What did when met with Prime Minister Alexis Tsip?
+Q_7507_4: Panos Kammenos: What calls Wolfgang Schäuble?
+Q_7507_5: Panos Kammenos: What co-founded with his friend?
+Q_1696_0: Why Carme Forcadell sent to pre-trial prison?
+Q_1696_1: Who Jordi Turull proposed for president?
+Q_1696_2: Jordi Turull: How many votes got for the investiture?
+Q_1696_3: Jordi Turull: What got dismissed?
+Q_1696_4: Jordi Turull: Why started hunger strike?
+Q_1696_5: Jordi Turull: What testified before Spanish court?
+Q_8748_0: What charges were raised against Josep Rull?
+Q_8748_1: What charges Joaquim Forn faced at Audiencia Nacional?
+Q_8748_2: Which charges José Manuel Maza raised against Oriol Junqueras?
+Q_8748_3: Why Joaquim Forn was remanded in custody?
+Q_8748_4: What Carmen Lamela's sister served as from 2016?
+Q_8748_5: Why was Oriol Junqueras remanded in custody?
+Q_5308_0: What Sarah Huckabee Sanders was joked about?
+Q_5308_1: Who took role of White House Press Secretary?
+Q_5308_2: What Anthony Scaramucci did after selling Oscar Capital?
+Q_5308_3: When Michelle Wolf talk show got discontinued?
+Q_5308_4: What did Neuberger Berman company acquire for US$2 billion?
+Q_4318_0: Who sponsored Cannabis Act?
+Q_4318_1: What was Jody Wilson-Raybould elected to in 2009?
+Q_4318_2: Jody Wilson-Raybould: What did introduce?
+Q_4318_3: Jody Wilson-Raybould: What was the disagreement?
+Q_5451_0: Who Ronny Jackson nominated to Secretary of Veterans Affairs?
+Q_5451_1: Why David Shulkin was dismissed by President Trump?
+Q_5451_2: David Shulkin: Who replaced?
+Q_5451_3: What Robert Wilkie's status concerning SCV and Confederate Memorial Committee?
+Q_5451_4: Robert Wilkie: What rank is Colonel from US Air Force Reserve?
+Q_488_0: What Prince Mohammed bin Salman promised on Jamal Khashoggi?
+Q_488_1: Jamal Khashoggi: Why is killing so heavily publicised?
+Q_488_2: How Patrick Cockburn allegedly learned about the massacre?
+Q_488_3: Patrick Cockburn: What was criticised?
+Q_488_4: Patrick Cockburn: What criticized?
+Q_488_5: Patrick Cockburn: Who is descendant of?
+Q_2963_0: Why Tom Bossert quit his job on April 8, 2018?
+Q_2963_1: What John R. Bolton supported regarding U.S. Embassy in Israel?
+Q_2963_2: John R. Bolton: What offered as advisory?
+Q_2963_3: John R. Bolton: What was chairman of until March 2018?
+Q_2963_4: John R. Bolton: How much was paid?
+Q_2963_5: What post is the Homeland Security Advisor?
+Q_4072_0: How much money records indicate Paul Manafort got?
+Q_4072_1: Paul Manafort: What did they accept payment for?
+Q_4072_2: How many protesters Kurdistan Region area detained?
+Q_4072_3: What accused about Kurdistan Region area?
+Q_5203_0: Why David Davis lost the leadership contest?
+Q_5203_1: David Davis: What suggested for post-Brexit negotiations?
+Q_5203_2: Why Layla Moran was questioned by police?
+Q_5203_3: Layla Moran: What was called for?
+Q_5203_4: Why Nazanin Zaghari-Ratcliffe was arrested?
+Q_4695_0: What offensive teammates did Roger Staubach have?
+Q_4695_1: What team Calvin Hill joined in 1974?
+Q_4695_2: What gave Rayfield Wright first opportunity as a starter?
+Q_4695_3: The Hawaiians: What was Hawaiians' stance in World Football League?
+Q_4695_4: What happened to Ralph Neely before the game?
+Q_4695_5: Ralph Neely: What honour was given in 2018?
+Q_3668_0: What type of Ford Fusion was expected to be released?
+Q_3668_1: What is the MPG-e rating of Fusion Energi?
+Q_3668_2: Fusion Energi: What upgrades got in 2017 model year?
+Q_3668_3: Fusion Energi: What is the total range?
+Q_2415_0: Who released their version of 'That's What I Like'?
+Q_2415_1: Who did Kurt Hugo Schneider cast for his project?
+Q_2415_2: In what feature film debut did Allison Williams star in?
+Q_2415_3: What Kurt Hugo Schneider accompanied Tsui on?
+Q_2415_4: What is Get Out film?
+Q_2415_5: What did Allison Williams write for Funny or Die?
+Q_9657_0: What did Quim Torra undertake in December 2018?
+Q_9657_1: What Joaquim Forn did on October 30th 2017?
+Q_9657_2: Joaquim Forn: Why was remanded in custody?
+Q_9657_3: Why Jordi Turull and Jordi Turull Sànchez went on hunger?
+Q_9657_4: Jordi Turull: Who proposed to be Spanish President?
+Q_5588_0: What position Geraint Thomas finished on stage 4?
+Q_5588_1: Geraint Thomas: How won the race?
+Q_5588_2: How many days Romain Bardet led the mountains classification?
+Q_5588_3: Where is Monte Terminillo area situated?
+Q_6423_0: What Gerwig wanted to do spiritual sequel of Lady Bird?
+Q_6423_1: What was Elena Ferrante’s first novel?
+Q_6423_2: Who uncovered identity of Elena Ferrante?
+Q_6423_3: How long My Brilliant Friend adaptation of Neapolitan Novels?
+Q_6423_4: Who is the probable author of Elena Ferrante novels?
+Q_6920_0: What Chrystia Freeland commented about on August 2, 2018?
+Q_6920_1: What was demanded in connection to Raif Badawi?
+Q_6920_2: Who was the partner of Eamonn McCann?
+Q_6920_3: What program Constantin Schreiber hosted?
+Q_6920_4: Constantin Schreiber: Where changed?
+Q_6286_0: What Prince Mohammed bin Salman said about Jamal Khashoggi?
+Q_6286_1: What written about Jamal Khashoggi?
+Q_6286_2: What publisher criticised Patrick Cockburn for?
+Q_6286_3: Who is descendant of Patrick Cockburn?
+Q_6286_4: Patrick Cockburn: What statement about the massacre?
+Q_6286_5: Patrick Cockburn: What criticized?
+Q_9378_0: Why Marta Rovira resigned her seat?
+Q_9378_1: What Jordi Turull testified before Spanish court?
+Q_9378_2: What charges were brought against Joaquim Forn?
+Q_9378_3: Joaquim Forn: How many Catalan ministers accompanied?
+Q_2421_0: What Sarah Huckabee Sanders heard regarding James Comey?
+Q_2421_1: What did Sarah Huckabee Sanders mentioned to discuss?
+Q_2421_2: What called Michael McFaul "the leading scholar?
+Q_2421_3: Michael McFaul: What asking to investigate?
+Q_2421_4: Who was partner of Michael McFaul in policy debate?
+Q_2421_5: What Sarah Huckabee Sanders didn't mention at the press conference?
+Q_3396_0: What did Sayfullo Saipov do in New York City?
+Q_3396_1: What Chambers Street borders on the north side?
+Q_3396_2: Where are 1, 40, 60, 80, and 100 Centre Street area?
+Q_3396_3: What is the height of Manhattan Municipal Building?
+Q_118_0: What Bowe Bergdahl was interested in doing?
+Q_118_1: What media critic rated Daily Beast company highly?
+Q_118_2: Who joined The Daily Beast company?
+Q_118_3: What does Erik Wemple's wife do?
+Q_118_4: What editorial role Spencer Ackerman filled in Daily Beast?
+Q_6081_0: What Katy Gallagher called-out Mitch Fifield for during Senate committee?
+Q_6081_1: What Mitch Fifield replaced in September 2015?
+Q_6081_2: Mitch Fifield: What was accused of in the Senate committee hearing?
+Q_6081_3: Mitch Fifield: Where was degree obtained from?
+Q_6081_4: In whose memory Barker College org was named?
+Q_6081_5: Barker College: Where is located?
+Q_3358_0: When did Trader Joe's open its first store?
+Q_3358_1: Trader Joe's: What was offered in Pasadena?
+Q_3358_2: How many locations does Trader Vic's org occupy now?
+Q_3358_3: Trader Vic's: How many were open during 1950s and?
+Q_3358_4: Trader Vic's: What bars franchise?
+Q_3358_5: Experienced what in Trader Vic's org?
+Q_6317_0: What was the subject of Michael Cohen meeting?
+Q_6317_1: Michael Cohen: Subpoenaed for what?
+Q_6317_2: Who did Felix Sater answer questions to?
+Q_6317_3: Felix Sater: What was discussing with Andrey Artemenko and Michael Cohen?
+Q_6317_4: What did BuzzFeed News company sued the Democratic National Committee for?
+Q_6317_5: What sued against BuzzFeed News company?
+Q_5022_0: Where Sam Gyimah did his secondary studies?
+Q_5022_1: Sam Gyimah: What edited in September 2005?
+Q_5022_2: What happened at the Bow Group org debate?
+Q_5022_3: What was Kwasi Kwarteng's increased majority at election in 2015?
+Q_5022_4: Kwasi Kwarteng: What position held after 2017 general election?
+Q_5022_5: Kwasi Kwarteng: Who replaced whom in Department for Exiting the EU?
+Q_718_0: What Joseph Kabila intervened with in election result?
+Q_718_1: Joseph Kabila: What percentage of vote won?
+Q_718_2: What school Jean-Pierre Bemba studied economics?
+Q_718_3: Jean-Pierre Bemba: With whom discussed potential return?
+Q_718_4: Who did Vital Kamerhe support for president in 2018?
+Q_8757_0: What was Deontay Wilder's upcoming fight?
+Q_8757_1: Deontay Wilder: Could get a world title fight?
+Q_8757_2: Who Hughie Fury was challenging?
+Q_8757_3: What's the tenure of Sam Sexton as a professional boxer?
+Q_8950_0: Who appeared in a project produced by James Gunn?
+Q_8950_1: James Gunn: Produced what film in 2017?
+Q_8950_2: What David Dastmalchian accomplished in the movie?
+Q_8950_3: David Dastmalchian: Where kick off career?
+Q_8950_4: David Dastmalchian: What award got in 2014?
+Q_7341_0: What prominent Republicans had Richard Grenell as a political adviser?
+Q_7341_1: What Dave Camp appointed to by Speaker Denny Hastert?
+Q_7341_2: How long Denny Hastert was in prison?
+Q_7341_3: Denny Hastert: What was the fate of pension?
+Q_7341_4: Denny Hastert: How long since been on radar?
+Q_7642_0: What Fabiano Caruana achieved in consecutive years?
+Q_7642_1: Fabiano Caruana: What position got in Chess.com RCC?
+Q_7642_2: What did Dmitry Andreikin do in 2018?
+Q_7642_3: Dmitry Andreikin: What tournaments conquered in 2016?
+Q_7642_4: Where Dmitry Jakovenko placed in the 71st Russian championship?
+Q_7642_5: Dmitry Jakovenko: What rank obtained in the July 2009 FIDE world rankings?
+Q_5284_0: What allegation was made against Asia Argento?
+Q_5284_1: Asia Argento: What got published about sex with Bennett?
+Q_5284_2: What situation ended Rain Dove and Rose McGowan relationship?
+Q_5284_3: What Jimmy Bennett reportedly did to Asia Argento?
+Q_5284_4: Jimmy Bennett: Received how much as settlement?
+Q_5284_5: Jimmy Bennett: How affected after the incident?
+Q_4989_0: Who took control of Afrin District?
+Q_4989_1: Afrin Canton: What declared of Afrin District in 2014?
+Q_4989_2: Afrin Canton: What happened in early 2018?
+Q_4989_3: What was Afrin Region area renamed from?
+Q_8216_0: What topic Cyril Ramaphosa discussed with President Paul Kagame?
+Q_8216_1: What did Lindiwe Sisulu was critiqued for?
+Q_8216_2: Lindiwe Sisulu: What position took after reshuffled cabinet announcement?
+Q_8216_3: Where Maite Nkoana-Mashabane was appointed as High Commissioner?
+Q_8216_4: Maite Nkoana-Mashabane: Why being appointed despite no foreign?
+Q_8216_5: What Lindiwe Sisulu's flagship housing project called?
